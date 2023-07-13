@@ -1,5 +1,5 @@
- def sayHi()
-    puts "Hello, i'm thuranira611"
+ def sayHi(name)
+    puts "Hello, i'm " +name
    
  end
- sayHi()
+ sayHi("thuranira611")
